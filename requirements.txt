@@ -1,0 +1,5 @@
+pyaudio
+faster-whisper
+gradio
+librosa
+tabulate
